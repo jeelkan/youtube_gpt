@@ -1,6 +1,3 @@
-Based on the code you've provided for your YouTube GPT application, here's a suggested README structure that you can upload to your GitHub repository. This README gives an overview of the application, including how it works, the tools and technologies used, setup instructions, usage, and acknowledgments.
-
----
 
 # YouTube GPT 🤖
 
