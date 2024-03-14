@@ -45,7 +45,7 @@ YouTube GPT is a cutting-edge application that brings the power of AI-driven con
 2. **Paste a YouTube link**: Specify the video you want to interact with.
 3. **Ask Questions**: Navigate to the "Chat with the Video" tab and start asking questions related to the video content.
 
-## Authors
+## Author
 
 - **Jeel Kanzaria** - *Initial work* - [JeelKanzaria](https://linkedin.com/in/jeel-kanzaria)
 
@@ -54,6 +54,35 @@ YouTube GPT is a cutting-edge application that brings the power of AI-driven con
 - This software was developed with the help of Code GPT. For more information, visit [codegpt.co](https://codegpt.co).
 - Special thanks to the OpenAI team for providing the tools that power this application.
 
+- To include an MIT License for your project, you should create a separate LICENSE file in your GitHub repository. However, for completeness, I'll also include the MIT License text in this README suggestion. You can append the following section at the end of the README file provided earlier:
+
 ---
 
-Feel free to customize the README further to match your project's needs or to add additional sections such as screenshots, contributing guidelines, license information, etc.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+
+```plaintext
+MIT License
+
+Copyright (c) 2024 JeelKanzaria
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
